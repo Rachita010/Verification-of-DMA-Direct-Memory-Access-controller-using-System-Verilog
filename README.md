@@ -2,7 +2,6 @@
 
 ## 📘 Overview
 This project implements a Direct Memory Access (DMA) Controller using the AXI4-lite protocol. The DMA controller is designed to autonomously transfer data between memory and peripherals without continuous CPU intervention, improving system efficiency.
-# Verification of DMA Controller using SystemVerilog
 
 ## 🔹 Features
 - **AXI4-Lite Master Interface** for read and write transactions.
