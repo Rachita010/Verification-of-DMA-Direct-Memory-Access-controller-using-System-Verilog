@@ -33,4 +33,4 @@ This project implements a Direct Memory Access (DMA) Controller using the AXI4-l
 ![Full Waveform](simulationWaveform.png)
 
 ### Zoomed-In Waveform
-![Zoomed-In Waveform](zoomedWavefom.jpeg)
+![Zoomed-In Waveform](zoomedWavefom.jpg)
