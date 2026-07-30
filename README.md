@@ -27,3 +27,10 @@ This project implements a Direct Memory Access (DMA) Controller using the AXI4-l
 3. Run the testbench with waveform enabled (EPWave).  
 4. Observe results in the simulation log and waveform viewer.
  
+## 📷 Simulation Results
+
+### Full Waveform
+![Full Waveform](simulationWaveform.png)
+
+### Zoomed-In Waveform
+![Zoomed-In Waveform](zoomedWavefom.jpeg)
